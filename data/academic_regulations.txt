@@ -1,0 +1,48 @@
+ACADEMIC REGULATIONS & CURRICULUM GUIDELINES (B.TECH)
+=====================================================
+
+Section 1: General Academic Structure and Credits
+1.1 Total Credits Required for Graduation
+Every student admitted to the four-year Bachelor of Technology (B.Tech) degree program shall pursue a full-time course of study for eight semesters. The total number of credits required for the award of the B.Tech degree is strictly 160 credits. For students admitted under the Lateral Entry Scheme into the third semester (second year), the total number of credits required for graduation is 120 credits.
+
+Key Provisions:
+  * Basic Science Courses (BSC): 24 Credits
+  * Engineering Science Courses (ESC): 22 Credits
+  * Professional Core Courses (PCC): 60 Credits
+  * Professional Elective Courses (PEC): 18 Credits
+  * Open Electives (OEC): 12 Credits
+  * Humanities, Social Sciences and Management (HSMC): 12 Credits
+  * Project Work, Seminar and Internship: 12 Credits
+
+Section 2: Attendance Requirements and Condonation Rules
+2.1 Minimum Attendance Requirement
+A student shall be eligible to appear for the semester end examinations only if the student acquires a minimum of 75% attendance in aggregate of all subjects registered in that semester. Attendance is computed from the date of commencement of instruction up to the last instructional day.
+
+Key Provisions:
+  * Regular Eligibility: Students securing 75% or greater aggregate attendance are unconditionally eligible for examinations.
+  * Medical Condonation: Condonation of shortage of attendance between 65% and 74% (inclusive) may be granted on genuine medical grounds.
+  * Medical Evidence: Medical certificate must be submitted within three working days of resuming classes, duly endorsed by the Head of the Department.
+  * Condonation Fee: A non-refundable condonation fee of INR 1,000 per semester must be paid before the issuance of examination hall ticket.
+  * Detention Rule: A candidate who secures aggregate attendance below 65% shall not be permitted to appear for the semester end examinations and shall be declared DETAINED. Such students must repeat the entire semester in the subsequent academic year.
+
+Section 3: Grading System, CGPA, and Award of Class
+3.1 10-Point Grading Scale
+The institution follows a continuous assessment model with a 10-point absolute grading scale. Marks obtained in Continuous Internal Evaluation (CIE) and Semester End Examination (SEE) are combined.
+
+Key Provisions:
+  * Grade O (Outstanding): Marks >= 90% | Grade Point: 10.0
+  * Grade A+ (Excellent): Marks 80% to 89% | Grade Point: 9.0
+  * Grade A (Very Good): Marks 70% to 79% | Grade Point: 8.0
+  * Grade B+ (Good): Marks 60% to 69% | Grade Point: 7.0
+  * Grade B (Above Average): Marks 50% to 59% | Grade Point: 6.0
+  * Grade C (Pass): Marks 40% to 49% | Grade Point: 5.0
+  * Grade F (Fail / Backlog): Marks < 40% | Grade Point: 0.0
+
+Section 4: Maximum Duration and Promotion Regulations
+4.1 Time Limit for Degree Completion
+A student must complete all requirements for the B.Tech degree within a maximum span of 8 academic years (N + 4 years from the date of initial enrollment). A lateral entry student must complete the degree within 6 academic years. Failure to meet all academic requirements within this window leads to automatic forfeiture of student registration.
+
+Key Provisions:
+  * Promotion to Year 2: Student must register for all Year 1 courses.
+  * Promotion to Year 3: Student must successfully clear at least 50% of the total cumulative credits of Year 1 and Year 2 combined.
+  * Promotion to Year 4: Student must have cleared 100% of Year 1 credits and at least 60% of Year 2 and Year 3 credits.

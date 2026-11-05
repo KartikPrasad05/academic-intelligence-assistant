@@ -1,0 +1,38 @@
+{
+  "project": {
+    "name": "College RAG Assistant",
+    "key": "RAG",
+    "lead": "Ganesh",
+    "projectTypeKey": "software",
+    "template": "scrum",
+    "description": "LLM-Based College Document Question Answering Assistant Using Cloud RAG and Claude Integration",
+    "workflow": [
+      "TO DO",
+      "IN PROGRESS",
+      "CODE REVIEW",
+      "TESTING",
+      "DONE"
+    ]
+  },
+  "epics": [
+    { "key": "EPIC-1", "name": "Requirements and Dataset Architecture", "points": 11 },
+    { "key": "EPIC-2", "name": "Cloud LLM & Claude Multi-Platform Integration", "points": 5 },
+    { "key": "EPIC-3", "name": "Scalable Hybrid RAG Pipeline", "points": 29 },
+    { "key": "EPIC-4", "name": "User Interface & Live Telemetry", "points": 8 },
+    { "key": "EPIC-5", "name": "Quantitative Testing and Verification", "points": 15 },
+    { "key": "EPIC-6", "name": "Documentation and Demonstration", "points": 5 }
+  ],
+  "sprints": [
+    { "id": 1, "name": "Sprint 1 - Foundation", "state": "closed", "committed_points": 16, "completed_points": 16 },
+    { "id": 2, "name": "Sprint 2 - RAG Development", "state": "closed", "committed_points": 21, "completed_points": 21 },
+    { "id": 3, "name": "Sprint 3 - Complete LLM App", "state": "closed", "committed_points": 24, "completed_points": 24 },
+    { "id": 4, "name": "Sprint 4 - Testing & Submission", "state": "closed", "committed_points": 20, "completed_points": 20 }
+  ],
+  "metrics": {
+    "total_story_points": 81,
+    "completed_story_points": 81,
+    "completion_rate_pct": 100.0,
+    "defect_density": 0.05,
+    "total_issues": 20
+  }
+}

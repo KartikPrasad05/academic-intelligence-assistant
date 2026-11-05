@@ -1,0 +1,23 @@
+DEPARTMENTAL REGULATIONS, LABORATORY PROTOCOLS AND CAPSTONE PROJECT RULES
+========================================================================
+
+Section 1: Laboratory Safety and Practical Regulations
+1.1 Practical Sessions Protocol
+Laboratory courses require systematic record maintenance, active experimentation, and rigorous adherence to safety norms. Students must secure at least 75% practical attendance to be qualified for practical exams.
+
+Key Provisions:
+  * Safety Gear: Cotton lab coats mandatory in chemistry, biology, and workshop labs. Anti-static wristbands in hardware labs.
+  * Observation Book: Raw experimental data must be checked and initialed by the faculty in-charge on the same day.
+  * Record Submission: Fair record must be submitted in the subsequent laboratory class. Delay incurs 2 marks deduction per day.
+  * Breakage / Damage: Inadvertent apparatus damage must be reported to the lab technician. Willful damage incurs a replacement penalty of 1.5x equipment cost.
+
+Section 2: Final Year Capstone Major Project Guidelines
+2.1 Project Formation, Review Schedule and Thesis Submission
+The Final Year B.Tech Capstone Project is a 10-credit course spanning the 7th and 8th semesters. It demands comprehensive literature review, problem formulation, system design, testing, and documentation.
+
+Key Provisions:
+  * Team Size: Exactly 3 to 4 students per batch. Inter-departmental teams require prior permission from both Department Heads.
+  * Guide Allocation: Guides are assigned based on student specialization and faculty research domain in Week 2 of Semester 7.
+  * Progress Reviews: Three mandatory internal reviews (Phase 1: Problem Definition 20%, Phase 2: Design & Mid-term Implementation 30%, Phase 3: Final Testing & Demonstration 50%).
+  * Plagiarism Ceiling: The final project dissertation must have a plagiarism similarity index strictly below 15% (excluding references) checked using Turnitin/iThenticate.
+  * Publication Incentive: Teams publishing a paper in an IEEE/Scopus indexed conference receive 5 bonus evaluation points.

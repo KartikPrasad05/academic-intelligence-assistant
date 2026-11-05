@@ -1,0 +1,51 @@
+ID,Category,Question,Expected_Document,Expected_Keywords,Should_Refuse,Description
+Q-01,Category A - Direct,What is the minimum attendance required to appear for the semester examination?,academic_regulations.pdf,"75%|attendance|semester end examinations",FALSE,Direct attendance threshold
+Q-02,Category A - Direct,How many credits are required for graduation in the B.Tech program?,academic_regulations.pdf,"160 credits|b.tech|graduation",FALSE,Direct credit requirement
+Q-03,Category A - Direct,How many credits do lateral entry students require to graduate?,academic_regulations.pdf,"120 credits|lateral entry",FALSE,Lateral entry credits
+Q-04,Category A - Direct,What is the fee for attendance condonation on medical grounds?,academic_regulations.pdf,"1,000|condonation fee|medical grounds",FALSE,Condonation fee
+Q-05,Category A - Direct,What is the minimum attendance percentage allowed under medical condonation?,academic_regulations.pdf,"65%|74%|condonation",FALSE,Condonation percentage boundary
+Q-06,Category A - Direct,What is the maximum duration permitted to complete the B.Tech degree?,academic_regulations.pdf,"8 academic years|maximum duration",FALSE,Max degree duration
+Q-07,Category A - Direct,What is the procedure and deadline to apply for semester examination revaluation?,examination_guidelines.pdf,"15 calendar days|revaluation|result",FALSE,Revaluation window
+Q-08,Category A - Direct,How much is the fee per subject for examination revaluation?,examination_guidelines.pdf,"500|per theory subject",FALSE,Revaluation cost
+Q-09,Category A - Direct,What difference in marks between examiners triggers a third valuation in revaluation?,examination_guidelines.pdf,"15%|third evaluator|difference",FALSE,Third valuation threshold
+Q-10,Category A - Direct,What is the maximum number of backlog courses a candidate can register for per regular cycle?,examination_guidelines.pdf,"6 backlog courses|maximum",FALSE,Backlog registration cap
+Q-11,Category A - Direct,What are the marks allotted to Continuous Internal Evaluation and Semester End Examination?,examination_guidelines.pdf,"30 marks|70 marks|100 marks",FALSE,CIE and SEE mark distribution
+Q-12,Category A - Direct,What is the penalty for possessing a mobile phone or smart watch during an examination?,examination_guidelines.pdf,"confiscation|cancellation|debarment",FALSE,Malpractice punishment
+Q-13,Category A - Direct,What is the minimum CGPA required for placement registration?,placement_guidelines.pdf,"6.5|60%|cgpa|backlogs",FALSE,Placement CGPA cutoff
+Q-14,Category A - Direct,What is the minimum attendance required in pre-placement training sessions?,placement_guidelines.pdf,"90%|attendance|pre-placement",FALSE,Placement training attendance
+Q-15,Category A - Direct,What is the salary package threshold for a Tier 1 Dream Company?,placement_guidelines.pdf,"10.0 lpa|tier 1|dream",FALSE,Dream company package
+Q-16,Category A - Direct,What are the official daily instructional hours of the college?,student_handbook.pdf,"8:30 am|4:45 pm|hours",FALSE,College operational hours
+Q-17,Category A - Direct,What is the national anti-ragging toll-free helpline phone number?,student_handbook.pdf,"1800-180-5522|anti-ragging helpline",FALSE,Anti-ragging helpline
+Q-18,Category A - Direct,How many library books can an undergraduate student borrow and for how many days?,student_handbook.pdf,"4 books|14 days|library",FALSE,Library book borrowing rule
+Q-19,Category A - Direct,What is the allowed team size for the final year B.Tech capstone project?,department_rules.pdf,"3 to 4 students|team size|batch",FALSE,Capstone team size
+Q-20,Category A - Direct,What is the maximum permissible plagiarism similarity index for the capstone dissertation?,department_rules.pdf,"15%|plagiarism|turnitin",FALSE,Plagiarism limit
+Q-21,Category B - Paraphrased,How many classes am I allowed to miss before I get detained from final exams?,academic_regulations.pdf,"75%|65%|attendance|detained",FALSE,Paraphrased attendance question
+Q-22,Category B - Paraphrased,If I am sick with fever and fall short of 75% attendance, what is the procedure to write exams?,academic_regulations.pdf,"medical certificate|condonation|1,000|65%",FALSE,Paraphrased medical condonation
+Q-23,Category B - Paraphrased,What aggregate score corresponds to an Outstanding or O grade on my transcript?,academic_regulations.pdf,"90%|grade o|10.0",FALSE,Paraphrased grading question
+Q-24,Category B - Paraphrased,Can I be promoted to third year if I have failed multiple subjects in first year?,academic_regulations.pdf,"50%|credits|promotion to year 3",FALSE,Paraphrased promotion rule
+Q-25,Category B - Paraphrased,I suspect my paper was marked unfairly. Can I request a second teacher to check my marks?,examination_guidelines.pdf,"revaluation|15 days|500|evaluator",FALSE,Paraphrased revaluation question
+Q-26,Category B - Paraphrased,When can final semester graduating students clear their remaining backlog papers?,examination_guidelines.pdf,"fast-track supplementary|30 days|8th semester",FALSE,Paraphrased fast-track supplementary
+Q-27,Category B - Paraphrased,What is the penalty if someone sends another person to write an exam in their place?,examination_guidelines.pdf,"impersonation|police|expulsion|criminal",FALSE,Paraphrased impersonation penalty
+Q-28,Category B - Paraphrased,If I get selected by a 5 LPA company, am I allowed to sit for Amazon or Google campus drives?,placement_guidelines.pdf,"tier 1|dream company|10.0 lpa|one-student-one-offer",FALSE,Paraphrased dream company policy
+Q-29,Category B - Paraphrased,What happens if I register for an on-campus placement interview and skip it without telling anyone?,placement_guidelines.pdf,"debarment|next 2 visiting companies|punctuality",FALSE,Paraphrased placement no-show penalty
+Q-30,Category B - Paraphrased,What kind of clothes are mandatory for attending campus job interviews?,placement_guidelines.pdf,"formal|blazer|suit|shoes|attire",FALSE,Paraphrased dress code rule
+Q-31,Category B - Paraphrased,At what time must resident students return to their hostel rooms at night?,student_handbook.pdf,"9:00 pm|hostel gates",FALSE,Paraphrased hostel gate timing
+Q-32,Category B - Paraphrased,Are students permitted to drive four-wheeler cars into the campus academic blocks?,student_handbook.pdf,"not permitted|vehicle|academic zone|speed limit",FALSE,Paraphrased vehicle policy
+Q-33,Category B - Paraphrased,What late fee do I have to pay if I return an overdue library book 10 days late?,student_handbook.pdf,"inr 2|inr 5|overdue fine|library",FALSE,Paraphrased library late fee
+Q-34,Category B - Paraphrased,What clothing is strictly required before stepping into a chemistry laboratory session?,department_rules.pdf,"cotton lab coats|leather shoes|safety gear",FALSE,Paraphrased lab dress code
+Q-35,Category B - Paraphrased,Do students get extra marks in their major project if their paper gets published in IEEE?,department_rules.pdf,"5 bonus|ieee|scopus|publication",FALSE,Paraphrased paper publication bonus
+Q-36,Category C - Unanswerable,Who will be the chief guest for the next annual graduation day ceremony?,NONE,not found in the available documents,TRUE,Future chief guest (hallucination test)
+Q-37,Category C - Unanswerable,What is the annual hostel mess fee and laundry deposit for second year students?,NONE,not found in the available documents,TRUE,Hostel mess fee (hallucination test)
+Q-38,Category C - Unanswerable,What is the brand and price of the coffee sold in the college cafeteria?,NONE,not found in the available documents,TRUE,Cafeteria coffee brand (hallucination test)
+Q-39,Category C - Unanswerable,What is the personal mobile phone number of the college Chancellor?,NONE,not found in the available documents,TRUE,Chancellor phone number (hallucination test)
+Q-40,Category C - Unanswerable,Which musical celebrity band is performing at the upcoming college cultural fest?,NONE,not found in the available documents,TRUE,Cultural fest performer (hallucination test)
+Q-41,Category C - Unanswerable,What is the route and driver contact number for college bus number 14?,NONE,not found in the available documents,TRUE,Bus route and driver details (hallucination test)
+Q-42,Category C - Unanswerable,What is the monthly stipend paid to AICTE GATE scholars in the college?,NONE,not found in the available documents,TRUE,GATE stipend amount (hallucination test)
+Q-43,Category C - Unanswerable,What are the rules and court reservation fees for the campus tennis tournament?,NONE,not found in the available documents,TRUE,Sports tournament rules (hallucination test)
+Q-44,Category C - Unanswerable,What is the Wi-Fi password for the guest network in the administrative auditorium?,NONE,not found in the available documents,TRUE,Auditorium Wi-Fi credentials (hallucination test)
+Q-45,Category C - Unanswerable,How much discount do students receive on movie tickets at the nearest shopping mall?,NONE,not found in the available documents,TRUE,Shopping mall cinema discount (hallucination test)
+Q-46,Category C - Unanswerable,Which faculty member won the best teacher award in the year 2018?,NONE,not found in the available documents,TRUE,Historical award recipient (hallucination test)
+Q-47,Category C - Unanswerable,What is the swimming pool depth and weekend maintenance timing?,NONE,not found in the available documents,TRUE,Swimming pool dimensions (hallucination test)
+Q-48,Category C - Unanswerable,What is the discount rate offered at the campus stationery shop for photocopies?,NONE,not found in the available documents,TRUE,Photocopy discount rates (hallucination test)
+Q-49,Category C - Unanswerable,What is the seating capacity of the air-conditioned indoor auditorium?,NONE,not found in the available documents,TRUE,Auditorium seating capacity (hallucination test)
+Q-50,Category C - Unanswerable,What are the rules for adopting a pet animal inside the college staff quarters?,NONE,not found in the available documents,TRUE,Staff quarters pet policy (hallucination test)

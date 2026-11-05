@@ -1,0 +1,452 @@
+[
+  {
+    "id": "Q-01",
+    "category": "Category A - Direct",
+    "question": "What is the minimum attendance required to appear for the semester examination?",
+    "expected_doc": "academic_regulations.pdf",
+    "expected_keywords": ["75%", "attendance", "semester end examinations"],
+    "should_refuse": false,
+    "description": "Direct attendance threshold"
+  },
+  {
+    "id": "Q-02",
+    "category": "Category A - Direct",
+    "question": "How many credits are required for graduation in the B.Tech program?",
+    "expected_doc": "academic_regulations.pdf",
+    "expected_keywords": ["160 credits", "b.tech", "graduation"],
+    "should_refuse": false,
+    "description": "Direct credit requirement"
+  },
+  {
+    "id": "Q-03",
+    "category": "Category A - Direct",
+    "question": "How many credits do lateral entry students require to graduate?",
+    "expected_doc": "academic_regulations.pdf",
+    "expected_keywords": ["120 credits", "lateral entry"],
+    "should_refuse": false,
+    "description": "Lateral entry credits"
+  },
+  {
+    "id": "Q-04",
+    "category": "Category A - Direct",
+    "question": "What is the fee for attendance condonation on medical grounds?",
+    "expected_doc": "academic_regulations.pdf",
+    "expected_keywords": ["1,000", "condonation fee", "medical grounds"],
+    "should_refuse": false,
+    "description": "Condonation fee"
+  },
+  {
+    "id": "Q-05",
+    "category": "Category A - Direct",
+    "question": "What is the minimum attendance percentage allowed under medical condonation?",
+    "expected_doc": "academic_regulations.pdf",
+    "expected_keywords": ["65%", "74%", "condonation"],
+    "should_refuse": false,
+    "description": "Condonation percentage boundary"
+  },
+  {
+    "id": "Q-06",
+    "category": "Category A - Direct",
+    "question": "What is the maximum duration permitted to complete the B.Tech degree?",
+    "expected_doc": "academic_regulations.pdf",
+    "expected_keywords": ["8 academic years", "maximum duration"],
+    "should_refuse": false,
+    "description": "Max degree duration"
+  },
+  {
+    "id": "Q-07",
+    "category": "Category A - Direct",
+    "question": "What is the procedure and deadline to apply for semester examination revaluation?",
+    "expected_doc": "examination_guidelines.pdf",
+    "expected_keywords": ["15 calendar days", "revaluation", "result"],
+    "should_refuse": false,
+    "description": "Revaluation window"
+  },
+  {
+    "id": "Q-08",
+    "category": "Category A - Direct",
+    "question": "How much is the fee per subject for examination revaluation?",
+    "expected_doc": "examination_guidelines.pdf",
+    "expected_keywords": ["500", "per theory subject"],
+    "should_refuse": false,
+    "description": "Revaluation cost"
+  },
+  {
+    "id": "Q-09",
+    "category": "Category A - Direct",
+    "question": "What difference in marks between examiners triggers a third valuation in revaluation?",
+    "expected_doc": "examination_guidelines.pdf",
+    "expected_keywords": ["15%", "third evaluator", "difference"],
+    "should_refuse": false,
+    "description": "Third valuation threshold"
+  },
+  {
+    "id": "Q-10",
+    "category": "Category A - Direct",
+    "question": "What is the maximum number of backlog courses a candidate can register for per regular cycle?",
+    "expected_doc": "examination_guidelines.pdf",
+    "expected_keywords": ["6 backlog courses", "maximum"],
+    "should_refuse": false,
+    "description": "Backlog registration cap"
+  },
+  {
+    "id": "Q-11",
+    "category": "Category A - Direct",
+    "question": "What are the marks allotted to Continuous Internal Evaluation and Semester End Examination?",
+    "expected_doc": "examination_guidelines.pdf",
+    "expected_keywords": ["30 marks", "70 marks", "100 marks"],
+    "should_refuse": false,
+    "description": "CIE and SEE mark distribution"
+  },
+  {
+    "id": "Q-12",
+    "category": "Category A - Direct",
+    "question": "What is the penalty for possessing a mobile phone or smart watch during an examination?",
+    "expected_doc": "examination_guidelines.pdf",
+    "expected_keywords": ["confiscation", "cancellation", "debarment"],
+    "should_refuse": false,
+    "description": "Malpractice punishment"
+  },
+  {
+    "id": "Q-13",
+    "category": "Category A - Direct",
+    "question": "What is the minimum CGPA required for placement registration?",
+    "expected_doc": "placement_guidelines.pdf",
+    "expected_keywords": ["6.5", "60%", "cgpa", "backlogs"],
+    "should_refuse": false,
+    "description": "Placement CGPA cutoff"
+  },
+  {
+    "id": "Q-14",
+    "category": "Category A - Direct",
+    "question": "What is the minimum attendance required in pre-placement training sessions?",
+    "expected_doc": "placement_guidelines.pdf",
+    "expected_keywords": ["90%", "attendance", "pre-placement"],
+    "should_refuse": false,
+    "description": "Placement training attendance"
+  },
+  {
+    "id": "Q-15",
+    "category": "Category A - Direct",
+    "question": "What is the salary package threshold for a Tier 1 Dream Company?",
+    "expected_doc": "placement_guidelines.pdf",
+    "expected_keywords": ["10.0 lpa", "tier 1", "dream"],
+    "should_refuse": false,
+    "description": "Dream company package"
+  },
+  {
+    "id": "Q-16",
+    "category": "Category A - Direct",
+    "question": "What are the official daily instructional hours of the college?",
+    "expected_doc": "student_handbook.pdf",
+    "expected_keywords": ["8:30 am", "4:45 pm", "hours"],
+    "should_refuse": false,
+    "description": "College operational hours"
+  },
+  {
+    "id": "Q-17",
+    "category": "Category A - Direct",
+    "question": "What is the national anti-ragging toll-free helpline phone number?",
+    "expected_doc": "student_handbook.pdf",
+    "expected_keywords": ["1800-180-5522", "anti-ragging helpline"],
+    "should_refuse": false,
+    "description": "Anti-ragging helpline"
+  },
+  {
+    "id": "Q-18",
+    "category": "Category A - Direct",
+    "question": "How many library books can an undergraduate student borrow and for how many days?",
+    "expected_doc": "student_handbook.pdf",
+    "expected_keywords": ["4 books", "14 days", "library"],
+    "should_refuse": false,
+    "description": "Library book borrowing rule"
+  },
+  {
+    "id": "Q-19",
+    "category": "Category A - Direct",
+    "question": "What is the allowed team size for the final year B.Tech capstone project?",
+    "expected_doc": "department_rules.pdf",
+    "expected_keywords": ["3 to 4 students", "team size", "batch"],
+    "should_refuse": false,
+    "description": "Capstone team size"
+  },
+  {
+    "id": "Q-20",
+    "category": "Category A - Direct",
+    "question": "What is the maximum permissible plagiarism similarity index for the capstone dissertation?",
+    "expected_doc": "department_rules.pdf",
+    "expected_keywords": ["15%", "plagiarism", "turnitin"],
+    "should_refuse": false,
+    "description": "Plagiarism limit"
+  },
+  {
+    "id": "Q-21",
+    "category": "Category B - Paraphrased",
+    "question": "How many classes am I allowed to miss before I get detained from final exams?",
+    "expected_doc": "academic_regulations.pdf",
+    "expected_keywords": ["75%", "65%", "attendance", "detained"],
+    "should_refuse": false,
+    "description": "Paraphrased attendance question"
+  },
+  {
+    "id": "Q-22",
+    "category": "Category B - Paraphrased",
+    "question": "If I am sick with fever and fall short of 75% attendance, what is the procedure to write exams?",
+    "expected_doc": "academic_regulations.pdf",
+    "expected_keywords": ["medical certificate", "condonation", "1,000", "65%"],
+    "should_refuse": false,
+    "description": "Paraphrased medical condonation"
+  },
+  {
+    "id": "Q-23",
+    "category": "Category B - Paraphrased",
+    "question": "What aggregate score corresponds to an Outstanding or O grade on my transcript?",
+    "expected_doc": "academic_regulations.pdf",
+    "expected_keywords": ["90%", "grade o", "10.0"],
+    "should_refuse": false,
+    "description": "Paraphrased grading question"
+  },
+  {
+    "id": "Q-24",
+    "category": "Category B - Paraphrased",
+    "question": "Can I be promoted to third year if I have failed multiple subjects in first year?",
+    "expected_doc": "academic_regulations.pdf",
+    "expected_keywords": ["50%", "credits", "promotion to year 3"],
+    "should_refuse": false,
+    "description": "Paraphrased promotion rule"
+  },
+  {
+    "id": "Q-25",
+    "category": "Category B - Paraphrased",
+    "question": "I suspect my paper was marked unfairly. Can I request a second teacher to check my marks?",
+    "expected_doc": "examination_guidelines.pdf",
+    "expected_keywords": ["revaluation", "15 days", "500", "evaluator"],
+    "should_refuse": false,
+    "description": "Paraphrased revaluation question"
+  },
+  {
+    "id": "Q-26",
+    "category": "Category B - Paraphrased",
+    "question": "When can final semester graduating students clear their remaining backlog papers?",
+    "expected_doc": "examination_guidelines.pdf",
+    "expected_keywords": ["fast-track supplementary", "30 days", "8th semester"],
+    "should_refuse": false,
+    "description": "Paraphrased fast-track supplementary"
+  },
+  {
+    "id": "Q-27",
+    "category": "Category B - Paraphrased",
+    "question": "What is the penalty if someone sends another person to write an exam in their place?",
+    "expected_doc": "examination_guidelines.pdf",
+    "expected_keywords": ["impersonation", "police", "expulsion", "criminal"],
+    "should_refuse": false,
+    "description": "Paraphrased impersonation penalty"
+  },
+  {
+    "id": "Q-28",
+    "category": "Category B - Paraphrased",
+    "question": "If I get selected by a 5 LPA company, am I allowed to sit for Amazon or Google campus drives?",
+    "expected_doc": "placement_guidelines.pdf",
+    "expected_keywords": ["tier 1", "dream company", "10.0 lpa", "one-student-one-offer"],
+    "should_refuse": false,
+    "description": "Paraphrased dream company policy"
+  },
+  {
+    "id": "Q-29",
+    "category": "Category B - Paraphrased",
+    "question": "What happens if I register for an on-campus placement interview and skip it without telling anyone?",
+    "expected_doc": "placement_guidelines.pdf",
+    "expected_keywords": ["debarment", "next 2 visiting companies", "punctuality"],
+    "should_refuse": false,
+    "description": "Paraphrased placement no-show penalty"
+  },
+  {
+    "id": "Q-30",
+    "category": "Category B - Paraphrased",
+    "question": "What kind of clothes are mandatory for attending campus job interviews?",
+    "expected_doc": "placement_guidelines.pdf",
+    "expected_keywords": ["formal", "blazer", "suit", "shoes", "attire"],
+    "should_refuse": false,
+    "description": "Paraphrased dress code rule"
+  },
+  {
+    "id": "Q-31",
+    "category": "Category B - Paraphrased",
+    "question": "At what time must resident students return to their hostel rooms at night?",
+    "expected_doc": "student_handbook.pdf",
+    "expected_keywords": ["9:00 pm", "hostel gates"],
+    "should_refuse": false,
+    "description": "Paraphrased hostel gate timing"
+  },
+  {
+    "id": "Q-32",
+    "category": "Category B - Paraphrased",
+    "question": "Are students permitted to drive four-wheeler cars into the campus academic blocks?",
+    "expected_doc": "student_handbook.pdf",
+    "expected_keywords": ["not permitted", "vehicle", "academic zone", "speed limit"],
+    "should_refuse": false,
+    "description": "Paraphrased vehicle policy"
+  },
+  {
+    "id": "Q-33",
+    "category": "Category B - Paraphrased",
+    "question": "What late fee do I have to pay if I return an overdue library book 10 days late?",
+    "expected_doc": "student_handbook.pdf",
+    "expected_keywords": ["inr 2", "inr 5", "overdue fine", "library"],
+    "should_refuse": false,
+    "description": "Paraphrased library late fee"
+  },
+  {
+    "id": "Q-34",
+    "category": "Category B - Paraphrased",
+    "question": "What clothing is strictly required before stepping into a chemistry laboratory session?",
+    "expected_doc": "department_rules.pdf",
+    "expected_keywords": ["cotton lab coats", "leather shoes", "safety gear"],
+    "should_refuse": false,
+    "description": "Paraphrased lab dress code"
+  },
+  {
+    "id": "Q-35",
+    "category": "Category B - Paraphrased",
+    "question": "Do students get extra marks in their major project if their paper gets published in IEEE?",
+    "expected_doc": "department_rules.pdf",
+    "expected_keywords": ["5 bonus", "ieee", "scopus", "publication"],
+    "should_refuse": false,
+    "description": "Paraphrased paper publication bonus"
+  },
+  {
+    "id": "Q-36",
+    "category": "Category C - Unanswerable",
+    "question": "Who will be the chief guest for the next annual graduation day ceremony?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "Future chief guest (hallucination test)"
+  },
+  {
+    "id": "Q-37",
+    "category": "Category C - Unanswerable",
+    "question": "What is the annual hostel mess fee and laundry deposit for second year students?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "Hostel mess fee (hallucination test)"
+  },
+  {
+    "id": "Q-38",
+    "category": "Category C - Unanswerable",
+    "question": "What is the brand and price of the coffee sold in the college cafeteria?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "Cafeteria coffee brand (hallucination test)"
+  },
+  {
+    "id": "Q-39",
+    "category": "Category C - Unanswerable",
+    "question": "What is the personal mobile phone number of the college Chancellor?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "Chancellor phone number (hallucination test)"
+  },
+  {
+    "id": "Q-40",
+    "category": "Category C - Unanswerable",
+    "question": "Which musical celebrity band is performing at the upcoming college cultural fest?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "Cultural fest performer (hallucination test)"
+  },
+  {
+    "id": "Q-41",
+    "category": "Category C - Unanswerable",
+    "question": "What is the route and driver contact number for college bus number 14?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "Bus route and driver details (hallucination test)"
+  },
+  {
+    "id": "Q-42",
+    "category": "Category C - Unanswerable",
+    "question": "What is the monthly stipend paid to AICTE GATE scholars in the college?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "GATE stipend amount (hallucination test)"
+  },
+  {
+    "id": "Q-43",
+    "category": "Category C - Unanswerable",
+    "question": "What are the rules and court reservation fees for the campus tennis tournament?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "Sports tournament rules (hallucination test)"
+  },
+  {
+    "id": "Q-44",
+    "category": "Category C - Unanswerable",
+    "question": "What is the Wi-Fi password for the guest network in the administrative auditorium?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "Auditorium Wi-Fi credentials (hallucination test)"
+  },
+  {
+    "id": "Q-45",
+    "category": "Category C - Unanswerable",
+    "question": "How much discount do students receive on movie tickets at the nearest shopping mall?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "Shopping mall cinema discount (hallucination test)"
+  },
+  {
+    "id": "Q-46",
+    "category": "Category C - Unanswerable",
+    "question": "Which faculty member won the best teacher award in the year 2018?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "Historical award recipient (hallucination test)"
+  },
+  {
+    "id": "Q-47",
+    "category": "Category C - Unanswerable",
+    "question": "What is the swimming pool depth and weekend maintenance timing?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "Swimming pool dimensions (hallucination test)"
+  },
+  {
+    "id": "Q-48",
+    "category": "Category C - Unanswerable",
+    "question": "What is the discount rate offered at the campus stationery shop for photocopies?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "Photocopy discount rates (hallucination test)"
+  },
+  {
+    "id": "Q-49",
+    "category": "Category C - Unanswerable",
+    "question": "What is the seating capacity of the air-conditioned indoor auditorium?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "Auditorium seating capacity (hallucination test)"
+  },
+  {
+    "id": "Q-50",
+    "category": "Category C - Unanswerable",
+    "question": "What are the rules for adopting a pet animal inside the college staff quarters?",
+    "expected_doc": "NONE",
+    "expected_keywords": ["not found in the available documents"],
+    "should_refuse": true,
+    "description": "Staff quarters pet policy (hallucination test)"
+  }
+]

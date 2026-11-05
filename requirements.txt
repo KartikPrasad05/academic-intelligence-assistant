@@ -1,0 +1,24 @@
+# Core Cloud Web Application & Framework
+streamlit>=1.35.0
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+
+# Document Ingestion & Parsing
+pypdf>=4.2.0
+
+# Multi-Platform Claude Cloud Integration
+anthropic>=0.34.0
+boto3>=1.34.0
+
+# Cloud Embeddings & Vector Databases
+chromadb>=0.5.0
+qdrant-client>=1.9.0
+fastembed>=0.3.0
+
+# Scalability, Caching & Utilities
+redis>=5.0.0
+numpy>=1.26.0
+requests>=2.32.0
+
+# Testing & Quality Evaluation
+pytest>=8.2.0
